@@ -1,5 +1,5 @@
 # A Comparison of Remotely Sensed Environmental Predictors for Avian Distributions
-A comparison of remotely sensed environmental predictors for avian distributions [Hopkins et al., 2022. Landscape Ecology]
+A comparison of remotely sensed environmental predictors for avian distributions [Hopkins et al., 2022. Landscape Ecology] https://doi.org/10.1007/s10980-022-01406-y
 
 1. Download the data: https://figshare.com/projects/A_Comparison_of_Remotely_Sensed_Environmental_Predictors_for_Avian_Distributions/94619 and save it in your working directory. 
 
