@@ -10,6 +10,6 @@ https://doi.org/10.1007/s10980-022-01406-y
 
 4. Evaluate models by comparing AUCs across species and spectral predictor sets. <br /><br /> **Run ```evaluation.R```** 
 
-5. To identify which spectral predictor sets performed best across the entire set of species, perform statistical tests. <br /><br /> **Run ```statistical_analysis.R```** 
+5. To identify which spectral predictor sets performed best across the entire set of species, compare all pairs of spectral predictor sets with Nemenyi post-hoc analysis. <br /><br /> **Run ```statistical_analysis.R```** 
 
 6. (Optional) Generate plots. <br /><br /> **Run ```publication_plots.R```** 
