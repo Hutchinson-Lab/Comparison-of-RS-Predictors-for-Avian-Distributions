@@ -1,5 +1,5 @@
 # A Comparison of Remotely Sensed Environmental Predictors for Avian Distributions
-Code for [Hopkins et al., 2022. Landscape Ecology]<br /> 
+Code for Hopkins et al., 2022. Landscape Ecology<br /> 
 https://doi.org/10.1007/s10980-022-01406-y
 ***
 
