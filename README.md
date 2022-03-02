@@ -1,6 +1,6 @@
 # A Comparison of Remotely Sensed Environmental Predictors for Avian Distributions
-Code for Hopkins et al. (2022) Landscape Ecology<br /> 
-https://doi.org/10.1007/s10980-022-01406-y
+Code for L.M. Hopkins, T.A. Hallman, J. Kilbride, W.D. Robinson, R.A. Hutchinson (2022) Landscape Ecology<br /> 
+[https://doi.org/10.1007/s10980-022-01406-y](https://doi.org/10.1007/s10980-022-01406-y)
 ***
 
 1. Download the data and save it in your working directory: https://figshare.com/projects/A_Comparison_of_Remotely_Sensed_Environmental_Predictors_for_Avian_Distributions/94619 
